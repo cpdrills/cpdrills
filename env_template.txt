@@ -1,7 +1,6 @@
-DJANGO_SETTINGS_MODULE = cpdrills.settings.development
-SECRET_KEY =
-
-API_URL = http://0.0.0.0:8080
+DJANGO_SETTINGS_MODULE=cpdrills.settings.development
+SECRET_KEY=mysecrect123
+API_URL=http://127.0.0.1:8081
 
 You don't need to fill these fields to run the app:
 EMAIL_HOST =
